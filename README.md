@@ -1,4 +1,4 @@
-# CodeClauseInternship_Folder_Locker
+# GUI Based Folder Locker Application System
 
 //Brief explanation of the Java code 
 
